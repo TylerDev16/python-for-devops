@@ -5,7 +5,7 @@
 
 * Create development environment that is ckoud-based: 
 ### Colab Notebook
-* This is an example of how to use [colab]
+* This is an example of how to use [colab](https://github.com/TylerDev16/python-for-devops/blob/main/getting_started_python.ipynb)
 ### Github Codespaces 
 ### AWS CloudShell
 ### AWS Cloud9
