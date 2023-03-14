@@ -1,5 +1,5 @@
 # python for devops
- From Zero Repo for doing Pyhton DevOps work.
+ From Zero Repo for doing Python DevOps work.
 
 ## Create a project scaffold
 
