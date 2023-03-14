@@ -6,7 +6,7 @@
 
 ## Create a project scaffold
 
-* Create development environment that is ckoud-based: 
+Create development environment that is cloud-based: 
 
 ### Colab Notebook
 
