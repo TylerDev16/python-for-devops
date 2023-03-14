@@ -23,7 +23,7 @@ Build out Python project scaffold
 * Microservice
 
 1. Create virtualenv: `virtualenv ~/.venv`
-2. edit my `~/.bachrc`
+2. edit my `vim ~/.bachrc` with `source ~/.venv/bin/active`
 
 
 ### AWS CloudShell
