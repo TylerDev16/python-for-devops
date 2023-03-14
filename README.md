@@ -18,7 +18,7 @@ Build out Python project scaffold
 
 * [Makefile](https://github.com/TylerDev16/python-for-devops/blob/main/Makefile)
 * [requirements.txt](https://github.com/TylerDev16/python-for-devops/blob/main/requirements.txt)
-* test_library.py
+* [test_library.py](https://github.com/TylerDev16/python-for-devops/blob/main/test_devopslib.py)
 * python_library
 * Dockerfile
 * command-line-tool
