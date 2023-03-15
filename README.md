@@ -6,26 +6,27 @@
 
 ## Create a project scaffold
 
-* Create development environment that is ckoud-based: 
-* 
+Create development environment that is cloud-based: 
+
 ### Colab Notebook
 
 * This is an example of how to use [colab](https://github.com/TylerDev16/python-for-devops/blob/main/getting_started_python.ipynb)
-* 
+
 ### Github Codespaces 
 
 Build out Python project scaffold
 
-* Makefile
-* requirements.txt
-* test_library.py
-* python_library
+* [Makefile](https://github.com/TylerDev16/python-for-devops/blob/main/Makefile)
+* [requirements.txt](https://github.com/TylerDev16/python-for-devops/blob/main/requirements.txt)
+* [test_library.py](https://github.com/TylerDev16/python-for-devops/blob/main/test_devopslib.py)
+* [python_library](https://github.com/TylerDev16/python-for-devops/tree/main/devopslib)
 * Dockerfile
 * command-line-tool
 * Microservice
 
 1. Create virtualenv: `virtualenv ~/.venv`
-2. edit my `vim ~/.bachrc` with `source ~/.venv/bin/active`
+2. Edit my `vim ~/.bachrc` with `source ~/.venv/bin/active`
+3. Clone project then run `make all`
 
 
 ### AWS CloudShell
