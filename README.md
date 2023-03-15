@@ -2,7 +2,6 @@
 
 ![AWS Code Build](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiaU44dnoxOUNmSVBmNnY3b0trMzhidE9RQkdCQjNoWkMxOEFBWG0ycU40UmVNKzRQRGprU3paZ1YwdFc3Mk44Q01MZzBlYlJtMU5ZS1prNmlPOEx5anFRPSIsIml2UGFyYW1ldGVyU3BlYyI6InM1c1FveW9QVERqNzdZSWIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
-
 # python for devops
 
  From Zero Repo for doing Python DevOps work.
