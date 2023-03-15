@@ -42,3 +42,6 @@ Build out Python project scaffold
 ## Microservices
 
 ## Containerized Continuous Delivery
+
+
+`docker run -p 127.0.0.1:8080:8080 68cf820d35b2`
