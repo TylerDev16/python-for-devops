@@ -3,6 +3,7 @@
 # python for devops
 
  From Zero Repo for doing Python DevOps work.
+ 
  This is a project video I followed by [Pragmatic AI Labs](https://www.youtube.com/watch?v=kwZNpieUreA&t=7371s)
 
 ## Create a project scaffold
